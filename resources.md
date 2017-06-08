@@ -225,6 +225,7 @@ inside a graphical user interface is often called a terminal window.
 - [codeface](https://github.com/chrissimpkins/codeface)
 - [bitmap-fonts](https://github.com/Tecate/bitmap-fonts)
 - [awesome-fonts](https://github.com/Tecate/bitmap-fonts)
+- [brick.im](http://brick.im/fonts/)
 
 On Debian/Ubuntu you need to enable bitmap fonts first:
 
